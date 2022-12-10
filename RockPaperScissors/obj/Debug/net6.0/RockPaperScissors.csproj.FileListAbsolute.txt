@@ -1,0 +1,15 @@
+C:\Projects\Personal\advent-puzzles\AdventPuzzles\RockPaperScissors\bin\Debug\net6.0\RockPaperScissors.exe
+C:\Projects\Personal\advent-puzzles\AdventPuzzles\RockPaperScissors\bin\Debug\net6.0\RockPaperScissors.deps.json
+C:\Projects\Personal\advent-puzzles\AdventPuzzles\RockPaperScissors\bin\Debug\net6.0\RockPaperScissors.runtimeconfig.json
+C:\Projects\Personal\advent-puzzles\AdventPuzzles\RockPaperScissors\bin\Debug\net6.0\RockPaperScissors.dll
+C:\Projects\Personal\advent-puzzles\AdventPuzzles\RockPaperScissors\bin\Debug\net6.0\RockPaperScissors.pdb
+C:\Projects\Personal\advent-puzzles\AdventPuzzles\RockPaperScissors\obj\Debug\net6.0\RockPaperScissors.csproj.AssemblyReference.cache
+C:\Projects\Personal\advent-puzzles\AdventPuzzles\RockPaperScissors\obj\Debug\net6.0\RockPaperScissors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Personal\advent-puzzles\AdventPuzzles\RockPaperScissors\obj\Debug\net6.0\RockPaperScissors.AssemblyInfoInputs.cache
+C:\Projects\Personal\advent-puzzles\AdventPuzzles\RockPaperScissors\obj\Debug\net6.0\RockPaperScissors.AssemblyInfo.cs
+C:\Projects\Personal\advent-puzzles\AdventPuzzles\RockPaperScissors\obj\Debug\net6.0\RockPaperScissors.csproj.CoreCompileInputs.cache
+C:\Projects\Personal\advent-puzzles\AdventPuzzles\RockPaperScissors\obj\Debug\net6.0\RockPaperScissors.dll
+C:\Projects\Personal\advent-puzzles\AdventPuzzles\RockPaperScissors\obj\Debug\net6.0\refint\RockPaperScissors.dll
+C:\Projects\Personal\advent-puzzles\AdventPuzzles\RockPaperScissors\obj\Debug\net6.0\RockPaperScissors.pdb
+C:\Projects\Personal\advent-puzzles\AdventPuzzles\RockPaperScissors\obj\Debug\net6.0\RockPaperScissors.genruntimeconfig.cache
+C:\Projects\Personal\advent-puzzles\AdventPuzzles\RockPaperScissors\obj\Debug\net6.0\ref\RockPaperScissors.dll

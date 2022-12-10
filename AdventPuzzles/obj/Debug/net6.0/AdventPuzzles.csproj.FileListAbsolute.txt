@@ -1,0 +1,15 @@
+C:\Projects\Personal\advent-puzzles\AdventPuzzles\AdventPuzzles\bin\Debug\net6.0\AdventPuzzles.exe
+C:\Projects\Personal\advent-puzzles\AdventPuzzles\AdventPuzzles\bin\Debug\net6.0\AdventPuzzles.deps.json
+C:\Projects\Personal\advent-puzzles\AdventPuzzles\AdventPuzzles\bin\Debug\net6.0\AdventPuzzles.runtimeconfig.json
+C:\Projects\Personal\advent-puzzles\AdventPuzzles\AdventPuzzles\bin\Debug\net6.0\AdventPuzzles.dll
+C:\Projects\Personal\advent-puzzles\AdventPuzzles\AdventPuzzles\bin\Debug\net6.0\AdventPuzzles.pdb
+C:\Projects\Personal\advent-puzzles\AdventPuzzles\AdventPuzzles\obj\Debug\net6.0\AdventPuzzles.csproj.AssemblyReference.cache
+C:\Projects\Personal\advent-puzzles\AdventPuzzles\AdventPuzzles\obj\Debug\net6.0\AdventPuzzles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Personal\advent-puzzles\AdventPuzzles\AdventPuzzles\obj\Debug\net6.0\AdventPuzzles.AssemblyInfoInputs.cache
+C:\Projects\Personal\advent-puzzles\AdventPuzzles\AdventPuzzles\obj\Debug\net6.0\AdventPuzzles.AssemblyInfo.cs
+C:\Projects\Personal\advent-puzzles\AdventPuzzles\AdventPuzzles\obj\Debug\net6.0\AdventPuzzles.csproj.CoreCompileInputs.cache
+C:\Projects\Personal\advent-puzzles\AdventPuzzles\AdventPuzzles\obj\Debug\net6.0\AdventPuzzles.dll
+C:\Projects\Personal\advent-puzzles\AdventPuzzles\AdventPuzzles\obj\Debug\net6.0\refint\AdventPuzzles.dll
+C:\Projects\Personal\advent-puzzles\AdventPuzzles\AdventPuzzles\obj\Debug\net6.0\AdventPuzzles.pdb
+C:\Projects\Personal\advent-puzzles\AdventPuzzles\AdventPuzzles\obj\Debug\net6.0\AdventPuzzles.genruntimeconfig.cache
+C:\Projects\Personal\advent-puzzles\AdventPuzzles\AdventPuzzles\obj\Debug\net6.0\ref\AdventPuzzles.dll

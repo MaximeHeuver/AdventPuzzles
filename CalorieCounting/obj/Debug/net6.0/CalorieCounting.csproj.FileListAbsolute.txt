@@ -1,0 +1,15 @@
+C:\Projects\Personal\advent-puzzles\AdventPuzzles\CalorieCounting\bin\Debug\net6.0\CalorieCounting.exe
+C:\Projects\Personal\advent-puzzles\AdventPuzzles\CalorieCounting\bin\Debug\net6.0\CalorieCounting.deps.json
+C:\Projects\Personal\advent-puzzles\AdventPuzzles\CalorieCounting\bin\Debug\net6.0\CalorieCounting.runtimeconfig.json
+C:\Projects\Personal\advent-puzzles\AdventPuzzles\CalorieCounting\bin\Debug\net6.0\CalorieCounting.dll
+C:\Projects\Personal\advent-puzzles\AdventPuzzles\CalorieCounting\bin\Debug\net6.0\CalorieCounting.pdb
+C:\Projects\Personal\advent-puzzles\AdventPuzzles\CalorieCounting\obj\Debug\net6.0\CalorieCounting.csproj.AssemblyReference.cache
+C:\Projects\Personal\advent-puzzles\AdventPuzzles\CalorieCounting\obj\Debug\net6.0\CalorieCounting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Personal\advent-puzzles\AdventPuzzles\CalorieCounting\obj\Debug\net6.0\CalorieCounting.AssemblyInfoInputs.cache
+C:\Projects\Personal\advent-puzzles\AdventPuzzles\CalorieCounting\obj\Debug\net6.0\CalorieCounting.AssemblyInfo.cs
+C:\Projects\Personal\advent-puzzles\AdventPuzzles\CalorieCounting\obj\Debug\net6.0\CalorieCounting.csproj.CoreCompileInputs.cache
+C:\Projects\Personal\advent-puzzles\AdventPuzzles\CalorieCounting\obj\Debug\net6.0\CalorieCounting.dll
+C:\Projects\Personal\advent-puzzles\AdventPuzzles\CalorieCounting\obj\Debug\net6.0\refint\CalorieCounting.dll
+C:\Projects\Personal\advent-puzzles\AdventPuzzles\CalorieCounting\obj\Debug\net6.0\CalorieCounting.pdb
+C:\Projects\Personal\advent-puzzles\AdventPuzzles\CalorieCounting\obj\Debug\net6.0\CalorieCounting.genruntimeconfig.cache
+C:\Projects\Personal\advent-puzzles\AdventPuzzles\CalorieCounting\obj\Debug\net6.0\ref\CalorieCounting.dll

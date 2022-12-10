@@ -1,0 +1,15 @@
+C:\Projects\Personal\advent-puzzles\AdventPuzzles\TurningTrouble\bin\Debug\net6.0\TurningTrouble.exe
+C:\Projects\Personal\advent-puzzles\AdventPuzzles\TurningTrouble\bin\Debug\net6.0\TurningTrouble.deps.json
+C:\Projects\Personal\advent-puzzles\AdventPuzzles\TurningTrouble\bin\Debug\net6.0\TurningTrouble.runtimeconfig.json
+C:\Projects\Personal\advent-puzzles\AdventPuzzles\TurningTrouble\bin\Debug\net6.0\TurningTrouble.dll
+C:\Projects\Personal\advent-puzzles\AdventPuzzles\TurningTrouble\bin\Debug\net6.0\TurningTrouble.pdb
+C:\Projects\Personal\advent-puzzles\AdventPuzzles\TurningTrouble\obj\Debug\net6.0\TurningTrouble.csproj.AssemblyReference.cache
+C:\Projects\Personal\advent-puzzles\AdventPuzzles\TurningTrouble\obj\Debug\net6.0\TurningTrouble.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Personal\advent-puzzles\AdventPuzzles\TurningTrouble\obj\Debug\net6.0\TurningTrouble.AssemblyInfoInputs.cache
+C:\Projects\Personal\advent-puzzles\AdventPuzzles\TurningTrouble\obj\Debug\net6.0\TurningTrouble.AssemblyInfo.cs
+C:\Projects\Personal\advent-puzzles\AdventPuzzles\TurningTrouble\obj\Debug\net6.0\TurningTrouble.csproj.CoreCompileInputs.cache
+C:\Projects\Personal\advent-puzzles\AdventPuzzles\TurningTrouble\obj\Debug\net6.0\TurningTrouble.dll
+C:\Projects\Personal\advent-puzzles\AdventPuzzles\TurningTrouble\obj\Debug\net6.0\refint\TurningTrouble.dll
+C:\Projects\Personal\advent-puzzles\AdventPuzzles\TurningTrouble\obj\Debug\net6.0\TurningTrouble.pdb
+C:\Projects\Personal\advent-puzzles\AdventPuzzles\TurningTrouble\obj\Debug\net6.0\TurningTrouble.genruntimeconfig.cache
+C:\Projects\Personal\advent-puzzles\AdventPuzzles\TurningTrouble\obj\Debug\net6.0\ref\TurningTrouble.dll

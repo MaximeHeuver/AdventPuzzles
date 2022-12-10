@@ -1,0 +1,15 @@
+C:\Projects\Personal\advent-puzzles\AdventPuzzles\CampCleanup\bin\Debug\net6.0\CampCleanup.exe
+C:\Projects\Personal\advent-puzzles\AdventPuzzles\CampCleanup\bin\Debug\net6.0\CampCleanup.deps.json
+C:\Projects\Personal\advent-puzzles\AdventPuzzles\CampCleanup\bin\Debug\net6.0\CampCleanup.runtimeconfig.json
+C:\Projects\Personal\advent-puzzles\AdventPuzzles\CampCleanup\bin\Debug\net6.0\CampCleanup.dll
+C:\Projects\Personal\advent-puzzles\AdventPuzzles\CampCleanup\bin\Debug\net6.0\CampCleanup.pdb
+C:\Projects\Personal\advent-puzzles\AdventPuzzles\CampCleanup\obj\Debug\net6.0\CampCleanup.csproj.AssemblyReference.cache
+C:\Projects\Personal\advent-puzzles\AdventPuzzles\CampCleanup\obj\Debug\net6.0\CampCleanup.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Personal\advent-puzzles\AdventPuzzles\CampCleanup\obj\Debug\net6.0\CampCleanup.AssemblyInfoInputs.cache
+C:\Projects\Personal\advent-puzzles\AdventPuzzles\CampCleanup\obj\Debug\net6.0\CampCleanup.AssemblyInfo.cs
+C:\Projects\Personal\advent-puzzles\AdventPuzzles\CampCleanup\obj\Debug\net6.0\CampCleanup.csproj.CoreCompileInputs.cache
+C:\Projects\Personal\advent-puzzles\AdventPuzzles\CampCleanup\obj\Debug\net6.0\CampCleanup.dll
+C:\Projects\Personal\advent-puzzles\AdventPuzzles\CampCleanup\obj\Debug\net6.0\refint\CampCleanup.dll
+C:\Projects\Personal\advent-puzzles\AdventPuzzles\CampCleanup\obj\Debug\net6.0\CampCleanup.pdb
+C:\Projects\Personal\advent-puzzles\AdventPuzzles\CampCleanup\obj\Debug\net6.0\CampCleanup.genruntimeconfig.cache
+C:\Projects\Personal\advent-puzzles\AdventPuzzles\CampCleanup\obj\Debug\net6.0\ref\CampCleanup.dll

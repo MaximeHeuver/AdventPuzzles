@@ -1,0 +1,15 @@
+C:\Projects\Personal\advent-puzzles\AdventPuzzles\SupplyStacks\bin\Debug\net6.0\SupplyStacks.exe
+C:\Projects\Personal\advent-puzzles\AdventPuzzles\SupplyStacks\bin\Debug\net6.0\SupplyStacks.deps.json
+C:\Projects\Personal\advent-puzzles\AdventPuzzles\SupplyStacks\bin\Debug\net6.0\SupplyStacks.runtimeconfig.json
+C:\Projects\Personal\advent-puzzles\AdventPuzzles\SupplyStacks\bin\Debug\net6.0\SupplyStacks.dll
+C:\Projects\Personal\advent-puzzles\AdventPuzzles\SupplyStacks\bin\Debug\net6.0\SupplyStacks.pdb
+C:\Projects\Personal\advent-puzzles\AdventPuzzles\SupplyStacks\obj\Debug\net6.0\SupplyStacks.csproj.AssemblyReference.cache
+C:\Projects\Personal\advent-puzzles\AdventPuzzles\SupplyStacks\obj\Debug\net6.0\SupplyStacks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Personal\advent-puzzles\AdventPuzzles\SupplyStacks\obj\Debug\net6.0\SupplyStacks.AssemblyInfoInputs.cache
+C:\Projects\Personal\advent-puzzles\AdventPuzzles\SupplyStacks\obj\Debug\net6.0\SupplyStacks.AssemblyInfo.cs
+C:\Projects\Personal\advent-puzzles\AdventPuzzles\SupplyStacks\obj\Debug\net6.0\SupplyStacks.csproj.CoreCompileInputs.cache
+C:\Projects\Personal\advent-puzzles\AdventPuzzles\SupplyStacks\obj\Debug\net6.0\SupplyStacks.dll
+C:\Projects\Personal\advent-puzzles\AdventPuzzles\SupplyStacks\obj\Debug\net6.0\refint\SupplyStacks.dll
+C:\Projects\Personal\advent-puzzles\AdventPuzzles\SupplyStacks\obj\Debug\net6.0\SupplyStacks.pdb
+C:\Projects\Personal\advent-puzzles\AdventPuzzles\SupplyStacks\obj\Debug\net6.0\SupplyStacks.genruntimeconfig.cache
+C:\Projects\Personal\advent-puzzles\AdventPuzzles\SupplyStacks\obj\Debug\net6.0\ref\SupplyStacks.dll

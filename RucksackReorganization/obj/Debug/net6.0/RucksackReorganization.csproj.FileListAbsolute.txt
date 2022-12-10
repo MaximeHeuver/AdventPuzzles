@@ -1,0 +1,15 @@
+C:\Projects\Personal\advent-puzzles\AdventPuzzles\RucksackReorganization\bin\Debug\net6.0\RucksackReorganization.exe
+C:\Projects\Personal\advent-puzzles\AdventPuzzles\RucksackReorganization\bin\Debug\net6.0\RucksackReorganization.deps.json
+C:\Projects\Personal\advent-puzzles\AdventPuzzles\RucksackReorganization\bin\Debug\net6.0\RucksackReorganization.runtimeconfig.json
+C:\Projects\Personal\advent-puzzles\AdventPuzzles\RucksackReorganization\bin\Debug\net6.0\RucksackReorganization.dll
+C:\Projects\Personal\advent-puzzles\AdventPuzzles\RucksackReorganization\bin\Debug\net6.0\RucksackReorganization.pdb
+C:\Projects\Personal\advent-puzzles\AdventPuzzles\RucksackReorganization\obj\Debug\net6.0\RucksackReorganization.csproj.AssemblyReference.cache
+C:\Projects\Personal\advent-puzzles\AdventPuzzles\RucksackReorganization\obj\Debug\net6.0\RucksackReorganization.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Personal\advent-puzzles\AdventPuzzles\RucksackReorganization\obj\Debug\net6.0\RucksackReorganization.AssemblyInfoInputs.cache
+C:\Projects\Personal\advent-puzzles\AdventPuzzles\RucksackReorganization\obj\Debug\net6.0\RucksackReorganization.AssemblyInfo.cs
+C:\Projects\Personal\advent-puzzles\AdventPuzzles\RucksackReorganization\obj\Debug\net6.0\RucksackReorganization.csproj.CoreCompileInputs.cache
+C:\Projects\Personal\advent-puzzles\AdventPuzzles\RucksackReorganization\obj\Debug\net6.0\RucksackReorganization.dll
+C:\Projects\Personal\advent-puzzles\AdventPuzzles\RucksackReorganization\obj\Debug\net6.0\refint\RucksackReorganization.dll
+C:\Projects\Personal\advent-puzzles\AdventPuzzles\RucksackReorganization\obj\Debug\net6.0\RucksackReorganization.pdb
+C:\Projects\Personal\advent-puzzles\AdventPuzzles\RucksackReorganization\obj\Debug\net6.0\RucksackReorganization.genruntimeconfig.cache
+C:\Projects\Personal\advent-puzzles\AdventPuzzles\RucksackReorganization\obj\Debug\net6.0\ref\RucksackReorganization.dll
